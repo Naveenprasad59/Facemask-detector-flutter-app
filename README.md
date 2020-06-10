@@ -20,3 +20,6 @@ I created my cutsom Face mask detector which and converted my model into tflite.
 
 **Images of this App **
 
+![GitHub Logo](ss1.png)
+
+![GitHub Logo](ss2.png)
